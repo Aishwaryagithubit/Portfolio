@@ -1,4 +1,4 @@
-# 💼 Aishwarya Sah – Developer Portfolio
+# Aishwarya Sah – Portfolio
 
 Welcome to my personal portfolio website!  
 This site showcases my **projects**, **technical skills**, and **career journey** as a computing undergraduate with a passion for software development, AI, and innovation.
