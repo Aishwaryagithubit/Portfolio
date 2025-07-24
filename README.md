@@ -55,8 +55,7 @@ I’m **Aishwarya Sah**, currently pursuing **BSc (Hons) Computing** at **Leeds 
 ## 📬 Contact
 
 📧 Email:aishwaryasah25@gmail.com  
-📞 Phone: +977-9817835460 
-🌍 Location: Kathmandu, Nepal  
+📞 Phone: +977-9817835460   
 🔗 [LinkedIn]:https://www.linkedin.com/in/aishwarya-sah-16580b28b/  
 🔗 [GitHub]:https://github.com/Aishwaryagithubit
 
