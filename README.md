@@ -11,7 +11,7 @@ I’m **Aishwarya Sah**, currently pursuing **BSc (Hons) Computing** at **Leeds 
 🌱 Currently upskilling in  **Programming**, **Frontend Web Dev**, and **AI with Python**.  
 🎯 Seeking internships, global research opportunities, and collaborative tech challenges.
 
----
+--
 
 ## 🚀 Features
 
