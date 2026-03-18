@@ -1,6 +1,6 @@
 # Aishwarya Sah – Portfolio
 
-Welcome to my personal portfolio website!  
+Welcome to my personal portfolio website 
 This website showcases my **projects**, **technical skills**, and **career journey** as a computing undergraduate with a passion for software development, AI, and innovation.
 
 ## 👩‍💻 About Me
